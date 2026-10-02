@@ -122,7 +122,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 4.1666665, y: 4.1666665}
+    oldSize: {x: 6.44, y: 6.08}
     newSize: {x: 4.1666665, y: 4.1666665}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -172,13 +172,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 7734f0bc23d7f5643bf3d47ace387911, type: 3}
   - {fileID: 21300000, guid: 956562424efca4648a1eb742999361c1, type: 3}
   - {fileID: 21300000, guid: 4d635cc10c46fa84da56628b1942b6e9, type: 3}
+  - {fileID: 21300000, guid: fa4cb75278b8aa4439a9407973368d6f, type: 3}
+  - {fileID: 21300000, guid: 40a1ff7ff90b129499a10e34acde5b85, type: 3}
   walkFrames:
   - {fileID: 21300000, guid: 16f3c00d93a3c944e952fc5b7871ba2b, type: 3}
   - {fileID: 21300000, guid: 78b9ff96d51640f47984a2745ff9e7d6, type: 3}
-  - {fileID: 21300000, guid: 5b5127ffc8c55ba4e8df16ab43e928f1, type: 3}
-  - {fileID: 21300000, guid: 63788f48d15541c44b22163d2dbc2f39, type: 3}
-  - {fileID: 21300000, guid: 6525d3fb1bd30b94b89ac8c3733e9674, type: 3}
-  - {fileID: 21300000, guid: 15213a76872978b46a893a10924c2aa5, type: 3}
   attackFrames:
   - {fileID: 21300000, guid: bbfa598819ea4e10941cd0ccd8d046d7, type: 3}
   - {fileID: 21300000, guid: 58c973e7ea624ca59148ac898837da78, type: 3}
@@ -187,11 +185,14 @@ MonoBehaviour:
   hitFrames:
   - {fileID: 21300000, guid: 093842fbdbb744a68cd3b599aec1d46d, type: 3}
   - {fileID: 21300000, guid: 77625091bcb642299a7a80276771301a, type: 3}
+  - {fileID: 21300000, guid: 341bed80386ce6241bd5917cc13e448a, type: 3}
   deathFrames:
   - {fileID: 21300000, guid: fe57be3755c24f629687185316dfbb9c, type: 3}
   - {fileID: 21300000, guid: 708562abdd88489880ef255db418bd5f, type: 3}
   - {fileID: 21300000, guid: c207956a914b4a02bb1ae40b2a36740c, type: 3}
   - {fileID: 21300000, guid: c47be02a12214d14a1d10ff5e23b0cc7, type: 3}
+  - {fileID: 21300000, guid: 7016ca5421578c54398ceb2636af0837, type: 3}
+  - {fileID: 21300000, guid: f9eb1c51915d0d949b5da369f7c615b4, type: 3}
   idleFrameTimes:
   - 0.1667
   - 0.1667
