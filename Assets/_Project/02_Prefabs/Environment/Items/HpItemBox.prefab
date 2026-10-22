@@ -211,12 +211,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 8
-  m_Sprite: {fileID: 21300000, guid: 6b0192ddbb152d744b3602e2a69f5fe7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a33fe6f641796ad4babfaed01c93b1b5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.475, y: 1.3583333}
+  m_Size: {x: 4.1666665, y: 4.1666665}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -254,18 +254,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.6791667}
+  m_Offset: {x: 0, y: 2.0833333}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 1.475, y: 1.3583333}
-    newSize: {x: 1.475, y: 1.3583333}
+    oldSize: {x: 4.1666665, y: 4.1666665}
+    newSize: {x: 4.1666665, y: 4.1666665}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.475, y: 1.3583333}
+  m_Size: {x: 4.1666665, y: 4.1666665}
   m_EdgeRadius: 0
 --- !u!114 &184940433450666202
 MonoBehaviour:
@@ -280,10 +280,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   openFrames:
-  - {fileID: 21300000, guid: 6b0192ddbb152d744b3602e2a69f5fe7, type: 3}
-  - {fileID: 21300000, guid: b6e267ac3e67fbd408acd09a2eec719a, type: 3}
-  - {fileID: 21300000, guid: eae7e06415adf094d940cba787e5a975, type: 3}
-  - {fileID: 21300000, guid: a8e1d95ca92e3e24ab8d05ce17d6156d, type: 3}
+  - {fileID: 21300000, guid: a33fe6f641796ad4babfaed01c93b1b5, type: 3}
+  - {fileID: 21300000, guid: b9321b586a46d5e4f9354389b888b41e, type: 3}
+  - {fileID: 21300000, guid: 1f67b340da55867459b55e372002065b, type: 3}
+  - {fileID: 21300000, guid: a3ed80918f32cb34182d69dfe5d17d71, type: 3}
+  - {fileID: 21300000, guid: c537b0bf296c9d1458170d7a89489858, type: 3}
+  - {fileID: 21300000, guid: 8dda441c5063b624e8a01efe09c3c3cf, type: 3}
   fps: 8
   item: {fileID: 4657054028615947713}
   healAmount: 1
