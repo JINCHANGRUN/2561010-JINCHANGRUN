@@ -1252,8 +1252,22 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
-    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: 3d65f35c4209eca4bb1372b26622d982, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 39df2b43781239e42a926196abc66ed3, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 922d4a17eb335754c958947af57277a2, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 2dee0e21da7f36948864a7c5541319ad, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: bbeba5262a4135d4e8c2ea80c3688d98, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 00f085590ec7fdd4b97084aeb2539d8a, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 4d8f06a482eae6543a5b34c198824318, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 5b7e39e7bb6e79b4694ca0b8bb90ff6f, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967
